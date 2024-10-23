@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @le-m0nd3
+- 👋 Hi, I’m le_monde (@le-m0nd3), Software Engineer @100devs
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on 
